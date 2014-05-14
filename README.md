@@ -103,3 +103,9 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### Note from BDSP (program submitter)
+
+The following online document section is very helpful in understanding scoping and using operation <<-
+
+http://cran.r-project.org/doc/manuals/R-intro.html#Scope
